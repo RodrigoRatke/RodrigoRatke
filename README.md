@@ -1,12 +1,10 @@
    ## Hello!! Me Chamo Rodrigo Varela Ratke
   
-  <div align="left">
+  <div align="centert">
   <a href="https://github.com/RodrigoRatke">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoRatke&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </div>
-   <div align="right">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRatke&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRatke&layout=compact&langs_count=7&theme=dark"/>
+   </div>
    <div>
  <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rodrigo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
