@@ -1,4 +1,4 @@
-   ## Hello!! Me Chamo Rodrigo Varela Ratke
+   ## Me Chamo Rodrigo Varela Ratke
    ## Sou Formado em Técnico em Informática Pelo SENAI Blumenau SC
    ## Sou Estudante de Superior em Sistemas de Informações pela Uniasselvi Blumenau SC
   
