@@ -1,8 +1,4 @@
-   ## Me Chamo Rodrigo Varela Ratke
-   ## Sou Formado em Técnico em Informática Pelo SENAI Blumenau SC
-   ## Sou Estudante de Superior em Sistemas de Informações pela Uniasselvi Blumenau SC
-  
-  <div align="centert">
+ <div align="centert">
   <a href="https://github.com/RodrigoRatke">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoRatke&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRatke&layout=compact&langs_count=7&theme=dark"/>
